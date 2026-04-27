@@ -1,0 +1,10 @@
+D 'xtsf1g2g': The first and second generation estimator of the stochastic frontier model for panel data Use xtsf1g and xtsf2g With STATA 19
+D
+F xtsf1g.ado
+F xtsf1g.sthlp
+F xtsf1g_p.ado
+F xtsf1g_postestimation.sthlp
+F xtsf2g.ado
+F xtsf2g.sthlp
+F xtsf2g_p.ado
+F xtsf2g_postestimation.sthlp
