@@ -3,6 +3,8 @@ The first and second generation estimator of the stochastic frontier model for p
 
 Panel data stochastic frontier models of the first and second generation Use xtsf1g and xtsf2g With STATA 19
 
+https://www.youtube.com/watch?v=fdBeKdi2ZGo
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
